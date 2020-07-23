@@ -1,5 +1,5 @@
-{
-  "decline": [
+export default {
+  decline: [
     "Your bot is not allowed to use our logo as your its avatar. Please change it and reapply.",
     "The long description on your bot's page is filled out with spam/junk to reach the 300 character minimum requirement. Please rewrite your description to include more useful information about your bot.",
     "Your bot's main feature is API abuse",
@@ -37,9 +37,9 @@
     "Your bot's help command is disabled which leaves no obvious entry point.",
     "Your long description literally has nothing to do with your bot.",
     "You are using the widgets of another bot in your long description. Please use your own widgets.",
-    "Your bot's code is in the long description"
+    "Your bot's code is in the long description",
   ],
-  "ban": [
+  ban: [
     "underage",
     "dm ads",
     "hoist ads",
@@ -62,9 +62,9 @@
     "rule 1 LOOL XD HAHA, also he posted a link that lead to an ip grabber as many times as the number of his case after warnings",
     "ads in front of Big T's eyes, don't corrupt my man like that",
     "nsfw in testing channels",
-    "Selfbotting and being rude"
+    "Selfbotting and being rude",
   ],
-  "mute": [
+  mute: [
     "responds to 'sa'",
     "responds to other bots",
     "seems to respond to other bots",
@@ -83,6 +83,6 @@
     "most commands do not have a prefix and also responds to other bots",
     "bot abuse - multiple music commands | 1 week",
     "your bot's profile picture slightly implies a racist meme",
-    "massive bot abuse https://luca.is-inside.me/HyAVUmMC.png | 7d"
-  ]
-}
+    "massive bot abuse https://luca.is-inside.me/HyAVUmMC.png | 7d",
+  ],
+};

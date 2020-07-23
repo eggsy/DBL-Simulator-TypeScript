@@ -1,14 +1,24 @@
 {
-  "name": "dbl-simulator",
-  "version": "0.0.0",
-  "description": "DBL Simulator",
-  "main": "app.js",
-  "author": {
-    "name": ""
+  "name": "DBL-Simulator-TypeScript",
+  "version": "1.0.0",
+  "description": "TypeScript version of the DBL Simulator Discord Bot.",
+  "repository": "https://github.com/eggsywashere/DBL-simulator.git",
+  "author": "<eggsydev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "devScript",
+    "build": "rimraf dist && yarn --silent && tsc",
+    "start": "cd dist && node index"
   },
   "dependencies": {
-    "discord.js": "^11.4.2",
-    "mysql": "^2.16.0",
-    "dblapi.js": "^2.3.0"
+    "@types/mysql": "^2.15.15",
+    "@types/node": "^14.0.24",
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^12.2.0",
+    "mysql": "^2.18.1",
+    "rimraf": "^3.0.2"
+  },
+  "devDependencies": {
+    "ts-devscript": "^1.0.8"
   }
 }

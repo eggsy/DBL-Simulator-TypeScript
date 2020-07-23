@@ -1,6 +1,0 @@
-Features added:
-- dbl!ban
-- dbl!mute
-
-Discovered some bugs or have suggestions?
-https://github.com/marcorennmaus/DBL-simulator/
