@@ -18,4 +18,4 @@ You'll need some simple things to run this bot [Node.js](https://nodejs.org), Ya
 
 ## EGGSY
 
-Follow me on [GitHub](https://github.com/eggsywashere), [my website](https://eggsy.xyz) and/or [my Twitter](https://twitter.com/eggsywashere), this was fun to make.
+Follow me on [GitHub](https://github.com/eggsydev), [my website](https://eggsy.xyz) and/or [my Twitter](https://twitter.com/eggsydev), this was fun to make.

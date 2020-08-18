@@ -2,7 +2,7 @@
   "name": "DBL-Simulator-TypeScript",
   "version": "1.0.0",
   "description": "TypeScript version of the DBL Simulator Discord Bot.",
-  "repository": "https://github.com/eggsywashere/DBL-simulator.git",
+  "repository": "https://github.com/eggsydev/DBL-simulator.git",
   "author": "<eggsydev@gmail.com>",
   "license": "MIT",
   "scripts": {
